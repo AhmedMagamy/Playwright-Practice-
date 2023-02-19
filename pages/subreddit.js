@@ -1,5 +1,4 @@
-    /*
-     */
+
 export default class SubredditPage{
 
 
@@ -17,6 +16,9 @@ export default class SubredditPage{
 
     }
 
+    /*
+     * this function to join subreddit
+     */
     async joinSubreddit (){
         await this.joinBtn.click();
        

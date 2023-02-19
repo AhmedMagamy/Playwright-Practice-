@@ -8,6 +8,9 @@ export default class LoginPage{
 
     }
 
+    /*
+     * this function to login with username and password
+     */
     async login (Username,Password){
         await this.userNameField.click();
         await this.userNameField.fill(Username);
