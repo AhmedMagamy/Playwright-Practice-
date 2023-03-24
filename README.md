@@ -1,5 +1,5 @@
 
-By running the following command in the root directory of this repository all dependencies should be installed:
+By running the following command in the root directory of this repository all dependencies should be  installed:
 
 ```
 yarn install
